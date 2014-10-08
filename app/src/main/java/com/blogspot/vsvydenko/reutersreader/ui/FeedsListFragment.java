@@ -24,6 +24,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -49,7 +50,7 @@ public class FeedsListFragment extends Fragment implements ListView.OnItemClickL
     private ListView mListView;
 
     private XMLParser mXMLParser = new XMLParser();
-    private List<FeedItem> mFeedItemList = new LinkedList<FeedItem>();
+    private List<FeedItem> mFeedItemList = new ArrayList<FeedItem>();
     private FeedsAdapter mFeedsAdapter;
 
     private Handler mHandler = new Handler();
