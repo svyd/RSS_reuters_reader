@@ -4,7 +4,7 @@ Simple RSS reader.
 
 ExpatPullParser used as XML parser, as recomended on http://developer.android.com/
 
-SwipeRefreshLayout - as update indicator is used.
+SwipeRefreshLayout - as update indicator.
 
 App checks for updates every 5 seconds..
 
