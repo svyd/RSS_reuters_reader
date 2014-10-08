@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reuters reader</string>
+    <string name="title_tab1">Business</string>
+    <string name="title_tab2">Entertainment</string>
+    <string name="user_name">Vladimir</string>
+    <string name="last_visited_feed">Last visited feed:</string>
+    <string name="btn_reuters_news">Reuters News</string>
+    <string name="an_error_occured">An Error occured</string>
+
+</resources>
